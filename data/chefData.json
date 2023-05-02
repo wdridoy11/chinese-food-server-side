@@ -15,8 +15,8 @@
         {
           "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
           "recipesName":"pizza",
-          "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough"],
-          "cookingMethod":[""]
+          "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough","sugar"],
+          "cookingMethod":["Oven baking","Grilling","Wood-fired oven","Deep-frying","Stovetop skillet","Brick oven"]
         }
       ],
       "experience":"7",
