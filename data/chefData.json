@@ -78,6 +78,20 @@
       "recipes":"4",
       "recipesDetails":[
         {
+          "img":"https://img.freepik.com/free-photo/egg-roll-fried-spring-rolls-white-plate-thai-food_1150-21488.jpg?w=1380&t=st=1683040948~exp=1683041548~hmac=4a9f74b1243f72065a14308fa617646a98412a6be65a10d89118b8219996bf99",
+          "recipesName":"Spring Rolls",
+          "rating":4.5,
+          "ingredients":["10-12 spring roll wrappers","1 cup cooked vermicelli noodles","1 cup shredded cabbage","1 cup shredded carrots","1 cup bean sprouts","1/2 cup chopped green onions"],
+          "cookingMethod":["Mix together cooked vermicelli noodles","Lay out a spring roll wrapper on a flat surface.","Seal the edge with a mixture of cornstarch and water","Repeat with the remaining wrappers and filling.","Heat vegetable oil in a wok or deep skillet","Fry the spring rolls in the hot oil for 2-3 minutes "]
+        },
+        {
+          "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
+          "recipesName":"burger",
+          "rating":5,
+          "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
+          "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
+        },
+        {
           "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
           "recipesName":"pizza",
           "rating":5,
@@ -133,8 +147,22 @@
       "id": "645068ba5a7536be34df887f",
       "img":"https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-empty-plate-puts-hand-waist-isolated-white-background-with-copy-space_141793-34937.jpg?w=1380&t=st=1682991542~exp=1682992142~hmac=79e7c842f2c8536659bfe2978b6963aad7c7b0bab293671bb83108aa55e94b93",
       "name":"William",
-      "recipes":"5",
+      "recipes":"4",
       "recipesDetails":[
+        {
+          "img":"https://img.freepik.com/free-photo/egg-roll-fried-spring-rolls-white-plate-thai-food_1150-21488.jpg?w=1380&t=st=1683040948~exp=1683041548~hmac=4a9f74b1243f72065a14308fa617646a98412a6be65a10d89118b8219996bf99",
+          "recipesName":"Spring Rolls",
+          "rating":4.5,
+          "ingredients":["10-12 spring roll wrappers","1 cup cooked vermicelli noodles","1 cup shredded cabbage","1 cup shredded carrots","1 cup bean sprouts","1/2 cup chopped green onions"],
+          "cookingMethod":["Mix together cooked vermicelli noodles","Lay out a spring roll wrapper on a flat surface.","Seal the edge with a mixture of cornstarch and water","Repeat with the remaining wrappers and filling.","Heat vegetable oil in a wok or deep skillet","Fry the spring rolls in the hot oil for 2-3 minutes "]
+        },
+        {
+          "img":"https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=1380&t=st=1683039900~exp=1683040500~hmac=a4ba8837dfe540a1fa5005232e80bd3632f3a0d81b7afc2f5008310a2c821105",
+          "recipesName":"Kung Pao Chicken",
+          "rating":4.5,
+          "ingredients":["1 tablespoon cornstarch","1 tablespoon soy sauce","1/2 teaspoon salt","1/2 cup roasted peanuts","3 cloves garlic, minced","2 green onions, chopped"],
+          "cookingMethod":["Heat oil in a wok or large skillet.","Stir-fry dried red chili peppers until fragrant.","Add garlic and ginger and stir-fry until fragrant.","Add bell peppers and stir-fry until they start to soften.","Add roasted peanuts and green onions,","Serve hot with steamed rice."]
+        },
         {
             "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
             "recipesName":"burger",
@@ -151,7 +179,7 @@
         }
       ],
       "description":"Hello I'm William. I'm chef 4 years experience",
-      "experience":"4",
+      "experience":"7",
       "like":"186"
     },
     {
