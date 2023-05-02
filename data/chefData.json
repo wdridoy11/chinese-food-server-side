@@ -1,38 +1,45 @@
 [
     {
       "id": "645068bab588512a33b7b452",
-      "img":"https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1682991427~exp=1682992027~hmac=3afe3dc2faa3baa44c3e5765a17f04dd47925325e9ee3d4a3daf7053d9beb708",
+      "img":"https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=1380&t=st=1683008593~exp=1683009193~hmac=5262b88fb3002bad050ca39b499a2ca250a46bf272e9c750ad7ac5f50a1ba6f9",
       "name":"James",
+      "description":"Hello I'm James. I'm chef 7 years experience",
       "recipes":"3",
-      "recipes-details":[
+      "recipesDetails":[
         {
             "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
-            "recipes-name":"burger"
+            "recipesName":"burger",
+            "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
+            "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
         },
         {
-            "img":"",
-            "recipes-name":""
+          "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
+          "recipesName":"pizza",
+          "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough"],
+          "cookingMethod":[""]
         }
       ],
-      "experience":"",
+      "experience":"7",
       "like":"150",
-      "rating":4.9
+      "rating":4.8
     },
     {
       "id": "645068ba606e6e2460d1a805",
       "img":"https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1380&t=st=1682991430~exp=1682992030~hmac=92aa7f0be4c69381ccf5c9e9d05b21ff5d9889c97a876bf014c1e82f6066049b",
       "name":"Robert",
       "recipes":"4",
-      "experience":"",
+      "description":"Hello I'm Robert. I'm chef 5 years experience",
+      "experience":"5",
       "like":"120",
-      "rating":4.6
+      "rating":4
     },
     {
       "id": "645068bac2f55edadd108e05",
       "img":"https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=1380&t=st=1682991445~exp=1682992045~hmac=3679d590754d522f6e573701b3d7a35da9e5dc0c087a20081a9f8966c3ca3393",
       "name":"John",
       "recipes":"6",
-      "experience":"90",
+      "description":"Hello I'm John. I'm chef 8 years experience",
+      "experience":"8",
       "like":"315",
       "rating":4.8
     },
@@ -41,7 +48,8 @@
       "img":"https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-504.jpg?w=1380&t=st=1682991516~exp=1682992116~hmac=827ef0295316bdf0838b2ead7a253fe1a8820147637703dedf5d8dfadd489a81",
       "name":"David",
       "recipes":"3",
-      "experience":"",
+      "description":"Hello I'm David. I'm chef 6 years experience",
+      "experience":"6",
       "like":"270",
       "rating":5
     },
@@ -50,7 +58,8 @@
       "img":"https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-empty-plate-puts-hand-waist-isolated-white-background-with-copy-space_141793-34937.jpg?w=1380&t=st=1682991542~exp=1682992142~hmac=79e7c842f2c8536659bfe2978b6963aad7c7b0bab293671bb83108aa55e94b93",
       "name":"William",
       "recipes":"5",
-      "experience":"",
+      "description":"Hello I'm William. I'm chef 4 years experience",
+      "experience":"4",
       "like":"186",
       "rating":4.7
     },
@@ -59,7 +68,8 @@
       "img":"https://img.freepik.com/free-photo/happy-young-chef-with-cooking-equipment_329181-685.jpg?w=1380&t=st=1682991691~exp=1682992291~hmac=eca668d5a356dc9a0eb4023e2ab6817bcb272bd3d8e4c98f0b2fce6d423bf608",
       "name":"Daniel",
       "recipes":"4",
-      "experience":"",
+      "description":"Hello I'm Daniel. I'm chef 5 years experience",
+      "experience":"5",
       "like":"224",
       "rating":4.9
     }
