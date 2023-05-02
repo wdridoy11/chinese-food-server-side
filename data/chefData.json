@@ -9,19 +9,28 @@
         {
             "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
             "recipesName":"burger",
+            "rating":4.8,
             "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
             "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
         },
         {
           "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
           "recipesName":"pizza",
+          "rating":4.9,
           "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough","sugar"],
           "cookingMethod":["Oven baking","Grilling","Wood-fired oven","Deep-frying","Stovetop skillet","Brick oven"]
         }
+        ,
+        {
+          "img":"https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=1380&t=st=1683034129~exp=1683034729~hmac=f5a83deb02ad901c0dbbfdebac3345352fd8a2e4b36193b411be5a322648f1b8",
+          "recipesName":"Chana Masala",
+          "rating":4.7,
+          "ingredients":["2 tbsp oil","1 large onion","3 garlic cloves","2 tomatoes","1 tsp garam masala","Water"],
+          "cookingMethod":["1 cup chana dal","3 cups water","1 tbsp oil or ghee","1 bay leaf","1 tsp garlic paste","1 tsp coriander powder"]
+        }
       ],
       "experience":"7",
-      "like":"150",
-      "rating":4.8
+      "like":"150"
     },
     {
       "id": "645068ba606e6e2460d1a805",
