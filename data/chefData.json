@@ -39,16 +39,30 @@
       "recipes":"4",
       "recipesDetails":[
         {
+            "img":"https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=1380&t=st=1683039900~exp=1683040500~hmac=a4ba8837dfe540a1fa5005232e80bd3632f3a0d81b7afc2f5008310a2c821105",
+            "recipesName":"Kung Pao Chicken",
+            "rating":4.5,
+            "ingredients":["1 tablespoon cornstarch","1 tablespoon soy sauce","1/2 teaspoon salt","1/2 cup roasted peanuts","3 cloves garlic, minced","2 green onions, chopped"],
+            "cookingMethod":["Heat oil in a wok or large skillet.","Stir-fry dried red chili peppers until fragrant.","Add garlic and ginger and stir-fry until fragrant.","Add bell peppers and stir-fry until they start to soften.","Add roasted peanuts and green onions,","Serve hot with steamed rice."]
+        },
+        {
+            "img":"https://img.freepik.com/free-photo/fried-rice-with-minced-pork-tomato-carrot-cucumber-plate_1150-27182.jpg?w=1380&t=st=1683040372~exp=1683040972~hmac=ab27d269e39cbad6d6c7856af68f5b0ffaf87f8d0a1bc0476a17c5f7034a92ba",
+            "recipesName":"Egg Fried Rice",
+            "rating":4.9,
+            "ingredients":["3 cups cooked white rice","2 tablespoons vegetable oil","2 eggs, lightly beaten","1/2 onion, chopped","2 cloves garlic, minced","2 tablespoons soy sauce"],
+            "cookingMethod":["Scramble eggs in hot oil and set aside.","Stir-fry onion and garlic until fragrant.","Add frozen peas and carrots and stir-fry until thawed.","Add cooked rice and stir-fry until.","Stir-fry for another minute or two.","Garnish with chopped green onions and serve hot."]
+        },
+        {
             "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
             "recipesName":"burger",
-            "rating":4.8,
+            "rating":5,
             "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
             "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
         },
         {
           "img":"https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=1380&t=st=1683034129~exp=1683034729~hmac=f5a83deb02ad901c0dbbfdebac3345352fd8a2e4b36193b411be5a322648f1b8",
           "recipesName":"Chana Masala",
-          "rating":4.7,
+          "rating":4,
           "ingredients":["2 tbsp oil","1 large onion","3 garlic cloves","2 tomatoes","1 tsp garam masala","Water"],
           "cookingMethod":["1 cup chana dal","3 cups water","1 tbsp oil or ghee","1 bay leaf","1 tsp garlic paste","1 tsp coriander powder"]
         }
@@ -66,7 +80,7 @@
         {
           "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
           "recipesName":"pizza",
-          "rating":4.9,
+          "rating":5,
           "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough","sugar"],
           "cookingMethod":["Oven baking","Grilling","Wood-fired oven","Deep-frying","Stovetop skillet","Brick oven"]
         }
@@ -90,19 +104,26 @@
       "recipes":"3",
       "recipesDetails":[
         {
-            "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
-            "recipesName":"burger",
-            "rating":4.8,
-            "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
-            "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
-        },
-        {
-          "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
-          "recipesName":"pizza",
+          "img":"https://img.freepik.com/free-photo/fried-rice-with-minced-pork-tomato-carrot-cucumber-plate_1150-27182.jpg?w=1380&t=st=1683040372~exp=1683040972~hmac=ab27d269e39cbad6d6c7856af68f5b0ffaf87f8d0a1bc0476a17c5f7034a92ba",
+          "recipesName":"Egg Fried Rice",
           "rating":4.9,
-          "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough","sugar"],
-          "cookingMethod":["Oven baking","Grilling","Wood-fired oven","Deep-frying","Stovetop skillet","Brick oven"]
-        }
+          "ingredients":["3 cups cooked white rice","2 tablespoons vegetable oil","2 eggs, lightly beaten","1/2 onion, chopped","2 cloves garlic, minced","2 tablespoons soy sauce"],
+          "cookingMethod":["Scramble eggs in hot oil and set aside.","Stir-fry onion and garlic until fragrant.","Add frozen peas and carrots and stir-fry until thawed.","Add cooked rice and stir-fry until.","Stir-fry for another minute or two.","Garnish with chopped green onions and serve hot."]
+      },
+      {
+          "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
+          "recipesName":"burger",
+          "rating":5,
+          "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
+          "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
+      },
+      {
+        "img":"https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=1380&t=st=1683034129~exp=1683034729~hmac=f5a83deb02ad901c0dbbfdebac3345352fd8a2e4b36193b411be5a322648f1b8",
+        "recipesName":"Chana Masala",
+        "rating":4,
+        "ingredients":["2 tbsp oil","1 large onion","3 garlic cloves","2 tomatoes","1 tsp garam masala","Water"],
+        "cookingMethod":["1 cup chana dal","3 cups water","1 tbsp oil or ghee","1 bay leaf","1 tsp garlic paste","1 tsp coriander powder"]
+      }
       ],
       "description":"Hello I'm David. I'm chef 6 years experience",
       "experience":"6",
@@ -117,14 +138,14 @@
         {
             "img":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1380&t=st=1682993813~exp=1682994413~hmac=5679689017a777e90e590c2ca7ca699ce7d95e37b847883f129c4c5160965e19",
             "recipesName":"burger",
-            "rating":4.8,
+            "rating":4,
             "ingredients":["Burger Bun","Ketchup","Onlons","Lettuce","Pickles","Tomatoes","Beef Parry"],
             "cookingMethod":["Use wet hands to form","Construct patties with dimple in center","Keep em cold until the grlil","Avoid pressing Patties,while cooking","Only flip one time"]
         },
         {
           "img":"https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=1380&t=st=1683034129~exp=1683034729~hmac=f5a83deb02ad901c0dbbfdebac3345352fd8a2e4b36193b411be5a322648f1b8",
           "recipesName":"Chana Masala",
-          "rating":4.7,
+          "rating":4.9,
           "ingredients":["2 tbsp oil","1 large onion","3 garlic cloves","2 tomatoes","1 tsp garam masala","Water"],
           "cookingMethod":["1 cup chana dal","3 cups water","1 tbsp oil or ghee","1 bay leaf","1 tsp garlic paste","1 tsp coriander powder"]
         }
@@ -137,16 +158,22 @@
       "id": "645068ba65aa526d441e7a0a",
       "img":"https://img.freepik.com/free-photo/happy-young-chef-with-cooking-equipment_329181-685.jpg?w=1380&t=st=1682991691~exp=1682992291~hmac=eca668d5a356dc9a0eb4023e2ab6817bcb272bd3d8e4c98f0b2fce6d423bf608",
       "name":"Daniel",
-      "recipes":"4",
+      "recipes":"3",
       "recipesDetails":[
         {
           "img":"https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=1380&t=st=1683031768~exp=1683032368~hmac=1e0dca15ed0eedf88aab12f4d9de6fb1f1cfe183dde1057fc186f6382ed56412",
           "recipesName":"pizza",
-          "rating":4.9,
+          "rating":5,
           "ingredients":["Tomatos","Parmesan","Salt","Olive Oli","Pizza Dough","sugar"],
           "cookingMethod":["Oven baking","Grilling","Wood-fired oven","Deep-frying","Stovetop skillet","Brick oven"]
-        }
-        ,
+        },
+        {
+          "img":"https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=1380&t=st=1683039900~exp=1683040500~hmac=a4ba8837dfe540a1fa5005232e80bd3632f3a0d81b7afc2f5008310a2c821105",
+          "recipesName":"Kung Pao Chicken",
+          "rating":4.5,
+          "ingredients":["1 tablespoon cornstarch","1 tablespoon soy sauce","1/2 teaspoon salt","1/2 cup roasted peanuts","3 cloves garlic, minced","2 green onions, chopped"],
+          "cookingMethod":["Heat oil in a wok or large skillet.","Stir-fry dried red chili peppers until fragrant.","Add garlic and ginger and stir-fry until fragrant.","Add bell peppers and stir-fry until they start to soften.","Add roasted peanuts and green onions,","Serve hot with steamed rice."]
+        },
         {
           "img":"https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=1380&t=st=1683034129~exp=1683034729~hmac=f5a83deb02ad901c0dbbfdebac3345352fd8a2e4b36193b411be5a322648f1b8",
           "recipesName":"Chana Masala",
